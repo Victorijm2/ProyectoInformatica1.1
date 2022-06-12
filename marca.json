@@ -1,0 +1,10 @@
+[
+    {
+        "Marca": "toyota",
+        "Modelo": "st185",
+        "Combustible": "gas",
+        "Potencia": "90",
+        "Traccion": "4",
+        "Cambio": "sec"
+    }
+]
